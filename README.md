@@ -1,2 +1,2 @@
-# BASIC BANKING SYSTEM
- A basic banking system using php and javascipt as backend and html5 and css for frontend.
+# BasicBankingSystem
+Basic Banking System is dynamic website which contain 10 users in which we can transfer amount between them. You can run the project using XAMPP server
